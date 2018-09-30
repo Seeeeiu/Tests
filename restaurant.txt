@@ -1,0 +1,47 @@
+Tossed
+Appetizers,Southwest Balckened Chicken Salad,8.99
+Appetizers,Chicken Caprese Salad,8.99
+Appetizers,Caesar Salad,6.99
+Appetizers,Cobb,8.99
+Appetizers,Tuna Salad,8.99
+Entr¨¦e,Tuna Salad Wrap,7.49
+Entr¨¦e,BBQ Chicken Wrap,7.49
+Entr¨¦e,Pesto Chicken Wrap,7.99
+Entr¨¦e,Margarita Napoli,6.99
+Entr¨¦e,Roasted Veggie Melt,7.69
+Drinks,Iced Tea,1.95
+Drinks,Smart Water,1.79
+Drinks,Dasani Water,1.59
+Dessert,Strawberry Mille,6.05
+Dessert,Chestnut Cake,5.50
+Dessert,Mango Pudding,6.50
+END
+Suchi Maki
+Appetizers,Miso Soup,3.50
+Appetizers,Spring Roll,3.00
+Appetizers,Steamed Bao Bun,3.00
+Entr¨¦e,California Roll,5.99
+Entr¨¦e,Sunshine Roll,8.99
+Entr¨¦e,Dragon Roll,11.49
+Entr¨¦e,Rocky Mountain Roll,10.99
+Drinks,Smart Water,1.79
+Drinks,Dasani,1.49
+Drinks,Green Tea,2.50
+Dessert,Chocolake Cake,6.05
+Dessert,Honey Cake,5.50
+Dessert,Apple Pudding,6.50
+END
+Pollo Tropical
+Appetizers,Caribbean Chicken Soup,2.69
+Appetizers,Chicken Caesar Salad,6.99
+Appetizers,Fried Yuca,2.79
+Entr¨¦e,Chicken Chipotle Sandwich,4.49
+Entr¨¦e,Guava Pork BBQ Sandwich,4.49
+Entr¨¦e,Boneless Chicken Breast,2.99
+Entr¨¦e,Mojo Roast Pork,5.79
+Drinks,Bottled Water,1.99
+Drinks,Materva,2.09
+Drinks,Jupina,2.09
+Dessert,Browny Cake,6.05
+Dessert,Cookies,6.50
+END
